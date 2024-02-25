@@ -46,3 +46,4 @@ with open('students_new.csv', 'w', encoding='utf-8') as data_file:
     data_writer.writerow(header_line)
     # Список строк с исправленными оценками
     data_writer.writerows(pupil_data)
+#new commit
